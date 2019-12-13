@@ -38,5 +38,5 @@ Configuration Parameters:
     database = <Tableau server DB name>
 
     [googleCloud]
-BUCKET_NAME = <Bucket name under your google cloud storage account. For more info: (https://cloud.google.com/storage/docs/key-terms)>
-GOOGLE_APPLICATION_CREDENTIALS = <Credential file of your google cloud account. For more info: (https://cloud.google.com/docs/authentication/getting-started)>
+    BUCKET_NAME = <Bucket name under your google cloud storage account. For more info: (https://cloud.google.com/storage/docs/key-terms)>
+    GOOGLE_APPLICATION_CREDENTIALS = <Credential file of your google cloud account. For more info: (https://cloud.google.com/docs/authentication/getting-started)>
